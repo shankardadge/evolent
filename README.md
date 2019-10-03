@@ -8,8 +8,8 @@ There is also features of filter the contact list.
 #Features
 
 Contact information application is made in.net core 2.1
-1. UI (.net core 2.1)
-2. Web API (Restful) (.net core 2.1)
+1. UI (.net core 2.1) -Evolent.UI
+2. Web API (Restful) (.net core 2.1) Evolent.DataService
 
 we segregated in to two application because 
 
